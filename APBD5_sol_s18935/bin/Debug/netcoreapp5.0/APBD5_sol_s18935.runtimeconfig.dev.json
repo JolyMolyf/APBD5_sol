@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\JolyMoly\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\JolyMoly\\.nuget\\packages"
+    ]
+  }
+}

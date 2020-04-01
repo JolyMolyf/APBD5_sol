@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\JolyMoly\\RiderProjects\\APBD5_sol_s18935\\APBD5_sol_s18935\\APBD5_sol_s18935.csproj",
+    "projectName": "APBD5_sol_s18935",
+    "projectPath": "C:\\Users\\JolyMoly\\RiderProjects\\APBD5_sol_s18935\\APBD5_sol_s18935\\APBD5_sol_s18935.csproj",
+    "outputPath": "C:\\Users\\JolyMoly\\RiderProjects\\APBD5_sol_s18935\\APBD5_sol_s18935\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp5.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "Microsoft.Data.SqlClient": {
+          "target": "Package",
+          "version": "[2.0.0-preview2.20084.1, )"
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "[4.8.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.1.20155.7\\RuntimeIdentifierGraph.json"
+    }
+  }
+}
